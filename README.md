@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/218c3661-d79e-4384-ad19-d1bd7d395ca9)<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:007bff,100:19cca8&height=180&text=ReactProject%20(%20TodoList%20)%20&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
