@@ -5,12 +5,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
-    <div>
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contents </h2>
-        <p>React를 활용한 TodoList 를 만들었습니다. </p>
-        <img src="![image](https://github.com/user-attachments/assets/978d7699-06e0-4965-9f31-dd1658c760cb)">
-        <p>Header에 날짜, 년도를 표시하였고, TodoEditor 컴포넌트를 만들어 입력 폼, 추가 버튼을 생성, TodoList 컴포넌트를 활용해 각리스트를 나타냈습니다. 그리고 각 리스트 아이템은 TodoItem컴포넌트에 작성하였습니다.</p>
-
+    <div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contents </h2>
+    <p>React를 활용한 TodoList 를 만들었습니다. </p>
+    <img src="![image](https://github.com/user-attachments/assets/978d7699-06e0-4965-9f31-dd1658c760cb)">
+    <p>Header에 날짜, 년도를 표시하였고, TodoEditor 컴포넌트를 만들어 입력 폼, 추가 버튼을 생성, TodoList 컴포넌트를 활용해 각리스트를 나타냈습니다. 그리고 각 리스트 아이템은 TodoItem컴포넌트에 작성하였습니다.</p>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
